@@ -147,6 +147,3 @@ This is an early-stage, open framework and contributions are very welcome.
 
 MIT — free to use, adapt, and build on.
 
----
-
-*Framework conceived by Selva, February 2026.*
